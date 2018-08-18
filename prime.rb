@@ -1,9 +1,4 @@
-# Add  code here!
-def prime?()
- if prime = [2,3,11]
-   return TRUE
- end
- 
+
  def prime?(x)
   if x == 1
     return true 
